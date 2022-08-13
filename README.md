@@ -4,8 +4,8 @@
 
 ![alt tag](https://raw.githubusercontent.com/mandliya/algorithms_and_ds_playground/master/image.jpg)
 
-| Current Status|     Stats     |
-| :------------: | :----------: |
+| Current Status|     Stats     | dsad|
+| :------------: | :----------: |:----------: |
 | Total C++ Problems | 188 |
 | Total Python Problems | 15 |
 | Current Daily Streak| 11 |
